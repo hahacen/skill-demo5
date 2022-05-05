@@ -1,3 +1,5 @@
 public class skilldemo5{
-//add the addition method here
+    public static int add(int n,int m){
+        return m+n;
+    }
 }
